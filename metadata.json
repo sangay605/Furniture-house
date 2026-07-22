@@ -1,0 +1,6 @@
+{
+  "name": "FurniOutlet",
+  "description": "Furniture outlet shop featuring real-time inventory management, AR room preview visualizer, and seamless delivery scheduling.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
